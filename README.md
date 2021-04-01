@@ -1,23 +1,20 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Telegram bot | written with Ruby
 
-> One paragraph statement about the project.
+> I build this project to demonstrate how to use the Ruby programming language to create a Telegram bot. Bot are small practical applications capable of providing shortcuts to your desire's content with practically no effort. Bot do take care of repetitive processes.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+> Bots are third-party applications that run inside Telegram. Users can interact with bots by sending them messages, commands and inline requests. You control your bots using HTTPS requests to our Bot API.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby
+- Telegram bot API
 
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+## Test With
+- Rspec
 
 ## Getting Started
 
@@ -39,21 +36,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
-
-
 ## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
