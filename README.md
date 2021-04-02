@@ -25,8 +25,12 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+1. Account @Telegram
+2. Ruby
+3. Rspec
 
 ### Setup
+If you wish to use my boot, please click on this (link)['t.me/makiruby_bot']. And we will start talking :-)
 
 ### Install
 
