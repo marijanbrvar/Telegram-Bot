@@ -2,7 +2,7 @@
 
 # Telegram bot
 
-written with Ruby
+build with Ruby
 
 > I build this project to demonstrate how to use the Ruby programming language to create a Telegram bot. Bot are small practical applications capable of providing shortcuts to your desire's content with practically no effort. Bot do take care of repetitive processes.
 
