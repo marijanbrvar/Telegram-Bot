@@ -18,6 +18,7 @@ written with Ruby
 - Yo mamma Jokes API
 
 ## Test With
+
 - Rspec
 
 ## Getting Started
@@ -34,15 +35,17 @@ To get a local copy of this code, follow the following steps:
 - In the telegram chat window, run your bot on a link similar to `t.me/makiruby_bot.`
 - And start talking/using your new bot
 
-
 ### Prerequisites
+
 1. Account @Telegram
 2. Ruby
 
 ### Setup
-If you wish to use my boot, please click on this (link)['t.me/makiruby_bot']. And we will start talking :-)
+
+If you wish to use my boot, please click on this [link]('t.me/makiruby_bot') `t.me/makiruby_bot`. And we will start talking :-)
 
 ### Using commands
+
 - /start or hello to activate your bot
 - /stop or stop to say goodbye to bot
 - /motivate to ask the bot to pick a daily motivational quote
@@ -50,7 +53,7 @@ If you wish to use my boot, please click on this (link)['t.me/makiruby_bot']. An
 
 ### Loom video presentation
 
-- [Bot Telegram presentation Video]('https://www.loom.com/share/6585dc525b7e40a986f241dafa51db0f')
+- Bot Telegram presentation [Video]('https://www.loom.com/share/6585dc525b7e40a986f241dafa51db0f')
 
 ## Authors
 
@@ -71,7 +74,6 @@ Feel free to check the [issues page](https://github.com/amiraabouhadid/project3_
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
 
 ## 📝 License
 
