@@ -25,7 +25,7 @@ written with Ruby
 To get a local copy of this code, follow the following steps:
 - Use following link to clone repository `git clone git@github.com:marijanbrvar/Telegram-Bot.git TelegramBot && cd TelegramBot`
 - Run `bundler install.`
-- Create account on (Telegram)['https://telegram.org/']
+- Create account on [Telegram]('https://telegram.org/')
 - Create a new bot using @BotFather
 - Ask @BotFather for your token or API key
 - Create .env file `touch .env` in project root directory
