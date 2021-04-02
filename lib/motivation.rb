@@ -4,10 +4,10 @@ require 'json'
 require_relative 'bot'
 
 class Motivation
-  @value = nil
+  @values = nil
 
   def initialize
-    @value = make_an_request
+    @values = make_an_request
   end
 
   def make_an_request
@@ -18,7 +18,7 @@ class Motivation
   end
 
   def select_random
-    @value = @value.sample
-    @value
+    @values = @values.sample
+    @values
   end
 end
