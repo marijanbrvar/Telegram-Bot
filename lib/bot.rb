@@ -2,14 +2,14 @@
 
 require 'telegram_bot'
 require_relative 'motivation'
-# require 'dotenv'
-# Dotenv.load('.env')
+require 'dotenv'
+Dotenv.load('.env')
 
 class Bot
   attr_reader :bot, :get_updates
 
   def initialize
-    @bot = TelegramBot.new('1786279126:AAFbhUGR2fUfWIwfrc2Vk5k6RJOs-3PO7Sk')
+    @bot = TelegramBot.new(ENV['TELEGRAM_API_KEY'])
     @get_updates = update
   end
 
