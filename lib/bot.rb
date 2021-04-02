@@ -1,8 +1,7 @@
 # rubocop:disable Metrics/MethodLength
 
 require 'telegram_bot'
-require_relative '../lib/motivation'
-require_relative '../lib/jokes'
+require_relative 'motivation'
 require 'dotenv'
 Dotenv.load('.env')
 
