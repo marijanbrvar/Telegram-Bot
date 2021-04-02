@@ -25,13 +25,13 @@ class Bot
 
                      when '/start', 'hello'
                        "Hello,
-           Welcome to Telegram bot, Marijan is responsible for my existance.
-           If you wish to serve you please type:
-           /start or hello to start my services
-           /motivate or motivate  to get motivational quote for today
-           /jokes or jokes to make fun from time to time
-           /stop or stop  to say GodBye
-           /motivation to serve you motivationl quote"
+                       Welcome to the Telegram bot. Marijan is responsible for my existence.
+                       If you wish to serve you, please type:
+                       /start or hello to start my services
+                       /motivate or motivate  to get a motivational quote for today
+                       /jokes or jokes to make fun of from time to time
+                       /stop or stop  to say goodbye
+                       /motivation to serve you motivational quote"
                      when '/motivate', 'motivate'
                        values = Motivation.new
                        value = values.select_random
