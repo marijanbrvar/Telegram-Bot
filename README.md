@@ -48,6 +48,9 @@ If you wish to use my boot, please click on this (link)['t.me/makiruby_bot']. An
 - /motivate to ask the bot to pick a daily motivational quote
 - /jokes be careful this jokes may offend you or make you laugh
 
+### Loom video presentation
+[Video]('https://www.loom.com/share/6585dc525b7e40a986f241dafa51db0f')
+
 ## Authors
 
 👤 MARIJAN BRVAR
