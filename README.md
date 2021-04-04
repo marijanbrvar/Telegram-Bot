@@ -42,7 +42,7 @@ To get a local copy of this code, follow the following steps:
 
 ### Setup
 
-If you wish to use my boot, please click on this [link]('t.me/makiruby_bot') `t.me/makiruby_bot`. And we will start talking :-)
+If you wish to use my boot, please use this [link]('t.me/makiruby_bot') `t.me/makiruby_bot`. in your Telegram client search field. When chat window opens click on Start in bottom of the chat and we will start talking :-)
 
 ### Using commands
 
