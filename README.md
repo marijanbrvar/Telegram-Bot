@@ -19,7 +19,8 @@ build with Ruby
 
 ## Test With
 
-- Rspec
+- Rspec `gem install rsepc`
+- then run `rspec spec/bot_test.rb`
 
 ## Getting Started
 
