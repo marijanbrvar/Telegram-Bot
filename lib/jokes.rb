@@ -10,7 +10,7 @@ class Jokes
   end
 
   def make_an_request
-    url = 'https://api.yomomma.info'
+    url = 'https://v2.jokeapi.dev/joke/Any?blacklistFlags=sexist&type=single'
     uri = URI(url)
     response = Net::HTTP.get(uri)
     JSON.parse(response)
